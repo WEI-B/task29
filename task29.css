@@ -1,0 +1,16 @@
+#cotent {
+	width: 600px;
+	height: 200px;
+	margin: 0 auto 0 auto;
+}
+#submit {
+	background-color: blue;
+}
+.right {
+	color: green;
+	font-size: 20px;
+}
+.error {
+	color: red;
+	font-size: 20px;
+}
